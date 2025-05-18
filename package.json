@@ -1,0 +1,31 @@
+{
+  "name": "png-to-pdf-cli",
+  "version": "1.0.0",
+  "description": "A CLI tool to combine multiple PNG files into a single PDF",
+  "main": "index.js",
+  "bin": {
+    "png-to-pdf": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node ./bin/cli.js"
+  },
+  "keywords": [
+    "pdf",
+    "png",
+    "image",
+    "combine",
+    "convert",
+    "cli"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.13.0",
+    "glob": "^10.3.10",
+    "commander": "^11.1.0",
+    "chalk": "^4.1.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

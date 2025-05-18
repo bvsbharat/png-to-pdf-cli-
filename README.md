@@ -2,6 +2,9 @@
 
 A command-line tool to combine multiple PNG files into a single PDF document.
 
+[![npm version](https://img.shields.io/npm/v/png-to-pdf-cli.svg)](https://www.npmjs.com/package/png-to-pdf-cli)
+[![GitHub repository](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/bvsbharat/png-to-pdf-cli-)
+
 ## Features
 
 - Combines multiple PNG files into a single PDF document
@@ -126,3 +129,9 @@ ISC
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Links
+
+- **NPM Package**: [https://www.npmjs.com/package/png-to-pdf-cli](https://www.npmjs.com/package/png-to-pdf-cli)
+- **GitHub Repository**: [https://github.com/bvsbharat/png-to-pdf-cli-](https://github.com/bvsbharat/png-to-pdf-cli-)
+- **Issues**: [https://github.com/bvsbharat/png-to-pdf-cli-/issues](https://github.com/bvsbharat/png-to-pdf-cli-/issues)

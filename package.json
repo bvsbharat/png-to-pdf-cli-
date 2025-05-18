@@ -1,6 +1,6 @@
 {
   "name": "png-to-pdf-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CLI tool to combine multiple PNG files into a single PDF",
   "main": "index.js",
   "bin": {
@@ -17,8 +17,16 @@
     "convert",
     "cli"
   ],
-  "author": "",
+  "author": "bvsbharat",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bvsbharat/png-to-pdf-cli-.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bvsbharat/png-to-pdf-cli-/issues"
+  },
+  "homepage": "https://github.com/bvsbharat/png-to-pdf-cli-#readme",
   "dependencies": {
     "pdfkit": "^0.13.0",
     "glob": "^10.3.10",
